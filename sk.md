@@ -1,7 +1,7 @@
 # Etický kód dizajnérov
 
-- [Dizajnér/ka je v prvom rade človek.](#a-designer-is-first-and-foremost-a-human-being)
-- [A designer is responsible for the work they put into the world.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
+- [Dizajnér/ka je v prvom rade človek.](#dizajnérka-je-v-prvom-rade-človek)
+- [Dizajnér/ka je zodpovedný/á za prácu, ktorú vypustí do sveta.](#dizajnérka-je-zodpovedný-á-za-prácu-ktorú-vypustí-do-sveta)
 - [A designer values impact over form.](#a-designer-values-impact-over-form)
 - [A designer owes the people who hire them not just their labor, but their counsel.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
 - [A designer welcomes criticism.](#a-designer-welcomes-criticism)
@@ -21,7 +21,7 @@ Every human being on this planet is obligated to do our best to leave this plane
 
 When you do work that depends on a need for income disparity or class distinctions to succeed you are failing your job as a citizen, and therefore as a designer.
 
-### A designer is responsible for the work they put into the world.
+### Dizajnér/ka je zodpovedný/á za prácu, ktorú vypustí do sveta.
 
 Design is a discipline of action. You are responsible for what you put into the world. It has your name on it. And while it is certainly impossible to predict how any of your work may be used, it shouldn’t be a surprise when work that is meant to hurt someone fulfills its mission. We cannot be surprised when a gun we designed kills someone. We cannot be surprised when a database we designed to catalog immigrants gets those immigrants deported. When we knowingly produce work that is intended to harm, we are abdicating our responsibility. When we ignorantly produce work that harms others because we didn’t consider the full ramifications of that work, we are doubly guilty.
 
